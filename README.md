@@ -19,7 +19,10 @@ I started the project by importing the Gen-Z slang social media dataset containi
 # Project Insights
 The analysis showed that a small group of slang terms dominates overall social media conversations. Certain slang categories appeared significantly more frequently, indicating strong trends in modern digital communication. I observed that ironic usage forms a noticeable portion of slang expression, showing how users often convey humor or sarcasm online. Sentiment analysis revealed that most slang usage falls under positive and casual communication rather than negative expression. High-frequency slang terms contributed heavily to overall engagement levels. The dataset also highlighted how Gen-Z language evolves rapidly through repeated usage patterns. Category-wise analysis helped identify popular communication styles used by online communities. Overall, the project demonstrates how data analytics can uncover cultural and behavioral trends from large-scale textual datasets.
 
-# Gen-Z Social Media Slang Analysis Dashboard
+## Gen-Z Social Media Slang Analysis Dashboard
 <img width="1171" height="653" alt="Gen-Z Social Media Slang Analysis Dashboard" src="https://github.com/user-attachments/assets/f492be28-7984-4298-97c7-704c5b505748" />
+
+## Dataset Link
+https://drive.google.com/file/d/1aJV9zLRJW0ARPOaCgbogBtf1iVitKq60/view?usp=drive_link
 
 
